@@ -9,7 +9,7 @@ for(var i = 1; i <= 100; i++) {
   	console.log('The number ' + i + ' is divisible by three');
   }
   // Checks if number is odd, but not divisible by 2 or 3
-	else if(i % 2 != 0) {
+  else if(i % 2 != 0) {
   	console.log('The number ' + i + ' is odd');
   }
   // Checks if number is even
