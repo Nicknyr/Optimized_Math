@@ -1,5 +1,5 @@
 # Optimized_Math
-My solution to the Optimized Math interview question
+## My solution to the Optimized Math interview question
 
 Optimized Math
 
